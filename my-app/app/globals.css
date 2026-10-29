@@ -5,6 +5,10 @@
   --foreground: #171717;
 }
 
+@theme {
+  --color-main-banner-bg-color: #FFF4CC;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
