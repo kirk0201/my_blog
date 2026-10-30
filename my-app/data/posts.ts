@@ -1,5 +1,7 @@
 import { Post } from "@/types/post";
 
+const tags: String[] = ["devlog", "daily"];
+
 export const posts:Post[] = [
   {
     title: "제목",

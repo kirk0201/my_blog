@@ -1,3 +1,14 @@
+# 누락 작업
+|기능	                              |현재 상태|
+실제 검색 (Pagefind 인덱스, 결과 표시)    |   검색 모달 열기/닫기만 있음
+댓글 (Giscus)	                          |   없음
+목차 자동 생성, 읽기 진행 바              |	없음
+코드 블록 COPY 버튼, 하이라이트           |   없음
+관련 글 추천 로직                         |	없음
+애드센스 광고	자리(AD SLOT)만           | 실제 광고는 승인 후
+폰트 (Silkscreen, IBM Plex Sans KR)       |	next/font 적용 단계 없음
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
